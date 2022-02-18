@@ -30,7 +30,7 @@ class LoginController {
         
         // Check user pass
         if ($data) {
-            if ($data['pass'] = $pass) {
+            if ($data['pass'] == $pass) {
                 // Save session and continue process
                 $_SESSION['user'] = $data['id'];
                 
