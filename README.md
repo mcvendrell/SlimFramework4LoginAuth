@@ -4,6 +4,8 @@ A super simple bootstrap example for projects with Slim Framework 4 with login f
 
 The project can run easily with, e.g., XAMPP. You will onlyneed PHP, Apache and MariaDB installed for this example to run.
 
+The purpose of this project is explained in this article in [Medium](https://mcvendrell.medium.com/a-simple-login-auth-project-with-slim-framework-4-29f73d4e1d55)
+
 You will find here:
 
 * An Slim Framework 4 basic skeleton
